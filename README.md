@@ -10,6 +10,14 @@ Download em https://www.google.com/chrome/
 
 A aplicação também possui interações sonoras.
 
+#### Clonando o repositório existente
+
+Utilize o seguinte link para clonar o repositório:
+
+´´´´
+https://github.com/eduardocappellotto/TheSimonGame
+´´´´
+
 
 ### Sobre o Simon game
 
