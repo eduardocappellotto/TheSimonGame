@@ -5,6 +5,7 @@ Projeto realizado no bootcamp "The Complete 2020 Web Development Bootcamp - Ange
 ### Pré Requisitos
 
 Recomendo a utilização do Google Chrome em sua versão mais recente.
+
 Download em https://www.google.com/chrome/
 
 A aplicação também possui interações sonoras.
@@ -19,12 +20,16 @@ O brinquedo buscava estimular a memorização de cores e sons. Com um formato se
 ### Sobre as tecnologias utilizadas
 
 · HTML5 ;
+
 · CSS ;
+
 · JavaScript ( ES6) ;
+
 · JQuery;
 
 ## Extras
 
 · Contato : eduardocappellotto@gmail.com
+
 · Link para o bootcamp : https://www.udemy.com/course/the-complete-web-development-bootcamp/
 
