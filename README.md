@@ -12,11 +12,13 @@ A aplicação também possui interações sonoras.
 
 #### Clonando o repositório existente
 
-Utilize o seguinte link para clonar o repositório:
+i) Crie um repositório local em sua máquina utilizando o Git Bash.
 
-´´´´
-https://github.com/eduardocappellotto/TheSimonGame
-´´´´
+ii) Utilize o seguinte comando em seu Git Bash para clonar o repositório:
+
+
+git clone https://github.com/eduardocappellotto/TheSimonGame
+
 
 
 ### Sobre o Simon game
